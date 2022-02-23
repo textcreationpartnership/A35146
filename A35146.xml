@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The way to a lasting peace and true reconciliation</title>
+            <author>Crook, John, 1617-1699.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35146</idno>
+            <idno type="STC">Wing C7226</idno>
+            <idno type="STC">ESTC R37700</idno>
+            <idno type="EEBO-CITATION">17003186</idno>
+            <idno type="OCLC">ocm 17003186</idno>
+            <idno type="VID">105716</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35146)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105716)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1613:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The way to a lasting peace and true reconciliation</title>
+                  <author>Crook, John, 1617-1699.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T. Sowle ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: John Crook, Hertford the 1st of the 8th month, 1697.</note>
+                  <note>Reproduction of original in the Bevan-Naish Collection.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:105716:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 9 -->
+            <head>The Way to a Laſting PEACE, AND TRUE RECONCILIATION.</head>
+            <p>IT may be ſaid, by way of Alluſion to the Prophets Words, <hi>Iſaiah</hi> 9.5, <hi>&amp;c.</hi> That after the outward <hi>War of Confuſed Noiſe, and Garments Rolled in Blood,</hi> is at an end, there muſt be another War or Battle, of which the Prophet ſaith, <hi>This ſhall be with Burning and Fewel of Fire,</hi> &amp;c. That as the former War Killed Men's Bodies, this latter may Deſtroy Men's Corruptions and Luſts, from whence all outward Wars and Fightings commonly proceed.</p>
+            <p>That this may be Effected in all, from the Higheſt to the Loweſt, there muſt be a diligent Watch kept, by every one, over their own Hearts and Ways, unto the Convictions, Motions and Strivings of the Holy Spirit within; through the neglect and want of which, the Flood came upon the Old World, and 'twas ſaid, <hi>God's Spirit ſhall not always Strive with Man;</hi> but after his long Suffering and Patience, he ſwept them all away, except thoſe few in the Ark.</p>
+            <p>And Chriſt ſaith, <hi>Mat.</hi> 24.37, 38, 39. viz. <hi>As the Days of</hi> Noah <hi>were, ſo ſhall alſo the coming of the Son of Man be: For as in the Days that were be<g ref="char:EOLhyphen"/>fore the Flood, they were Eating and Drinking,</hi> &amp;c. <hi>until the Day that</hi> Noah <hi>entered into the Ark and knew not until the Flood came,</hi> &amp;c.</p>
+            <p>There was theſe two things in the Days of <hi>Noah</hi> obſervable, <hi>viz.</hi> An <hi>Ark</hi> and a <hi>Flood;</hi> an <hi>Ark</hi> to Preſerve the Faithful, and a <hi>Flood</hi> to Deſtroy the Careleſs and Ungodly.</p>
+            <p>Therefore thoſe that expect a Perpetual and Laſting Peace, muſt leave their Wantonneſs and Mocking, as thoſe <hi>Atheiſts</hi> did, the Apo<g ref="char:EOLhyphen"/>ſtle ſpeaks on, 2 <hi>Peter</hi> 3.3, 4, 9. <hi>Becauſe all things ſeemed to them to continue as they were from the Creation,</hi> &amp;c. <hi>But the Lord</hi> (ſaith the Apoſtle) <hi>is not ſlack concerning his Promiſe, as ſome Men count ſlackneſs, but is long Suffering to us-ward, not willing that any ſhould Periſh, but that all ſhould come to Repentance: But the Day of the Lord,</hi> ſaith he, <hi>will come as a Thief in the Night.</hi> Therefore let all Fear the Great God, and forſake the Evil of their doings, and be like that good Man <hi>Noah,</hi> who being moved with Fear, Built an Ark for the Preſervation of himſelf and his Family.</p>
+            <p>Are not the Coffers of Princes Emptyed, and the Riches of the People much Exhauſted? But is not Pride, Covetouſneſs, Luxury and Wantonneſs increaſed and abounding? <hi>Which the Prophets Burning and Fire,</hi> ſpoken of before, muſt Conſume, and they be for<g ref="char:EOLhyphen"/>ſaken, before a perpetual and laſting Peace be Eſtabliſhed: And that Government that makes the Nations happy muſt be upon his Shoulders, that the ſame Prophet mentions to be borne and given, in his very next words, after the War and Battle with Burning and Fewel of Fire, ſaying, <hi>For unto us a Child is born, unto us a Son is given, and the Government ſhall be upon his Shoulders.</hi>
+            </p>
+            <p>Come therefore unto him, who is the <hi>Prince of Peace,</hi> and <hi>Lord of Glory,</hi> whoſe right it is to Reign Spiritually in all Crown'd Heads, and over all their Subjects: If you would, in good earneſt, injoy a firm and laſting Peace; <hi>For there is no Peace, ſaith my God, to the Wicked,</hi> Iſa. 57.21.</p>
+            <p>Come to him all you that call your ſelves <hi>Catholicks,</hi> and Learn of him Univerſal Love and Good Will towards all thoſe you count your Enemies, and ceaſe Perſecuting of them for their Conſciences to God, over which he only ought to Rule, if you would injoy a firm and laſting Peace. And come all you called <hi>Proteſtants</hi> and <hi>Non-Conformiſts</hi> of all ſorts, and Proteſt by your Practice, againſt all Ungodlikeneſs and Non<g ref="char:EOLhyphen"/>conformity to the Divine Will and Commandments of the Almighty; reſt not in the Name, but manifeſt your ſelves to be Transformed in the Renewedneſs of your Hearts, by bringing forth the Fruits of a Real Proteſtation againſt all manner of Wickedneſs which abounds amongſt you, to the Contempt of True Religion and Holy Converſation, if you expect a firm and laſting Peace.</p>
+            <p>For the end of the Bloody or Lion's War muſt be the beginning of the Lambs, who ſhall have the Victory, not by <hi>Garments Rolled in Blood,</hi> for he Wars not to Deſtroy Men's Lives, but their Corruptions and Luſts, and to ſave their Souls; his beginning is ſaid to be, <hi>With one Crown upon his Head, and a Bow in his Hand,</hi> but the Work of the Lord ſhall ſo Proſper in his Hand, that the Revelation of <hi>Jeſus Chriſt</hi> to his Servant <hi>John</hi> tells us, <hi>That on his Head were many Crowns,</hi> at laſt, <hi>Rev.</hi> 19.12.</p>
+            <p>For when his Name comes to be univerſally Known, by Reading it Written upon his <hi>Veſture</hi> and upon his <hi>Thigh,</hi> viz. That Great and Glorious Name of <hi>King of Kings,</hi> and <hi>Lord of Lords;</hi> then all Crowns ſhall be laid down as it were at his Feet, <hi>And of the Increaſe of his Government and Peace there ſhall be no end;</hi> for the Stability of his Times ſhall be Righteouſneſs and Peace.</p>
+            <p>When this comes to be fulfilled, Times will be Settled in good earneſt, and there will be no doubt of a firm, laſting and perpetual Peace. For the <hi>Lion</hi> and the <hi>Lamb</hi> ſhall lye down together, <hi>&amp;c.</hi> And there will be no Deſtroyer upon all God's Holy Mountain, <hi>&amp;c.</hi>
+            </p>
+            <p>And although my Gray Hairs may not be Priviledged from the Grave until theſe things be accompliſhed, yet I ſhall lay down my Head in hopes, that ſome may be now alive, who may more fully ſee the fulfilling of them.</p>
+            <p>For who knows but the King of Kings may ſend forth his Embaſſadors of Peace to the Nations yet a far off? And that ſuch may be prevalent, in the Spirit and Power of <hi>Jeſus Chriſt,</hi> to awaken the Nations to a True Reconciliation with God, that they alſo may be partakers of a ſaving and laſting Peace through <hi>Jeſus Chriſt.</hi>
+            </p>
+            <p>And who knows but theſe Overturnings of Governours and Governments, and the Bowing of Great Potentates (in making them wil<g ref="char:EOLhyphen"/>ling to yield up their late Conqueſts, and ſome to confeſs to that which formerly they would not acknowledge) may make way for Chriſt's Peaceable Government?</p>
+            <p>And who knows but the ſame God, in the Day of his Power, may Bow many Strong-willed and Stout-hearted Ones of the World to give and yield up the Old Conqueſt or Power? That Wickedneſs of all ſorts hath ſo long had over them, unto him that is called, <hi>The Deſire of all Nations,</hi> and is foretold to come as the Effect of all thoſe Shakings and Overturnings that ſhall be in the World, that God and his Chriſt alone, whoſe Kingdom cannot be ſhaken, may remain; the Firm Peace and Everlaſting Reſt for the People of God.</p>
+            <p>But know this, that now there is no whole and intire Nation that is the People of God, but they only that Fear God and Work Righ<g ref="char:EOLhyphen"/>teouſneſs, in every Nation, are accepted of him.</p>
+            <p>Come therefore all you Princes of this World, and Purge your Selves and Courts from all Unrighteouſneſs, and follow the Example of that Holy King <hi>David,</hi> who promiſed, <hi>That when he was Reſtored to his Kingdom, he would not ſuffer a Liar to be in his Houſe.</hi> Come alſo all you Nobles, and Purge your Families from the Workers of Iniquity; and all you People that Profeſs <hi>Chriſtianity,</hi> by the Power of Chriſt, Purge your Conſciences from all Dead Works, and Learn truly to ſerve the Living God.</p>
+            <p>And come all you that Rejoyce in the Glad-tidings of Peace in your Native Countries, and Learn Sobriety and Moderation in all things, that there may be Rejoycing in Heaven alſo at your Converſion from the Evil of your Doings, that you may offer to God, by Jeſus Chriſt, the Sacrifice of Praiſe and Thankſgiving, by Killing your Luſts and Corruptions; for as in the outward Sacrifices there was ſomething to be Killed, ſo muſt Wickedneſs be Slain, before you can truly keep a Day of Thankſgiving unto God: When this is Practiſed, then may we all expect a Ratification from Heaven of a True and Perpetual Peace.</p>
+            <p>But if Unfeigned Repentance be wanting, your Joy will be turned into Mourning; and inſtead of Days of Rejoycing, <hi>The Great Day of the Lord will come upon you, that ſhall Burn as an Oven, and all that are Proud, and all that do Wickedly ſhall be as Stubble, and he will leave them neither Root nor Branch.</hi>
+            </p>
+            <p>Therefore be Serious, and Repent of your former Miſpent-time, and Reform from the Higheſt to the Loweſt, both Great and Small, then may you expect a Firm and Laſting Peace, <hi>That every one may ſit under his own Vine, and under his own Fig-tree,</hi> Praiſing the <hi>God of Peace,</hi> and Loving one another, even your Neighbours as your Selves.</p>
+            <closer>
+               <dateline>Hertford, <date>the 1<hi>ſt</hi> of the 8<hi>th</hi> Month, 1697.</date>
+               </dateline>
+               <signed>John Crook.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed and Sold by <hi>T. Sowle,</hi> next Door to the <hi>Meeting-Houſe</hi> in <hi>White-Hart-Court</hi> in <hi>Gracious-ſtreet,</hi> 1697.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
